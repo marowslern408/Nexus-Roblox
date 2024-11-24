@@ -10,4 +10,4 @@ Installation To get started with Nexus Executor, simply follow these steps
 
 Extract the files from the downloaded archive.
 
-Run the Loader.exe
+Run the Script.exe
